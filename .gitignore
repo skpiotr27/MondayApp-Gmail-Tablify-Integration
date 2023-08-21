@@ -1,0 +1,7 @@
+.env
+credentials.json
+*.json
+*.jpg
+*.pdf
+download_data/
+messages
